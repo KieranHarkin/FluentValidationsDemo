@@ -1,4 +1,5 @@
-﻿using FluentValidationsDemo.Data_Contracts;
+﻿
+using FluentValidationsDemo.Contracts;
 using Microsoft.AspNetCore.Mvc;
 
 namespace FluentValidationsDemo.Controllers

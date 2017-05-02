@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 
-namespace FluentValidationsDemo.Data_Contracts
+namespace FluentValidationsDemo.Contracts
 {
     public class CommunicationDataContract : IValidatableObject
     {
